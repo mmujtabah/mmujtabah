@@ -18,6 +18,9 @@ I’m Muhammad Mujtaba Hussain@MMH-P<br>I’m interested in AI/ML<br>I’m curre
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=MMH-P&icon=0&color=12)](https://visitcount.itsvg.in)
 
