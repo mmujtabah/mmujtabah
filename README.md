@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Mujtaba Hussain@MMH-P
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning Python, Java and Visual Basic
+- 🌱 I’m currently learning Python, C++ and JavaScript
 - 💞️ I’m looking to collaborate on my_website project
 - 📫 How to reach me email:mmujtabah1599@protonmail.com
 
