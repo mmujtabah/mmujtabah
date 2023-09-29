@@ -12,7 +12,6 @@ I’m Muhammad Mujtaba Hussain@mmujtabah<br>I’m interested in AI/ML<br>I’m c
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mmujtabah&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmujtabah&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64df8700ced78d293526efb1?variant=dark&roadmaps=ai-data-scientist)](https://roadmap.sh)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mmujtabah&theme=discord&no-frame=false&no-bg=true&margin-w=4)
@@ -22,5 +21,7 @@ I’m Muhammad Mujtaba Hussain@mmujtabah<br>I’m interested in AI/ML<br>I’m c
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mmujtabah&icon=0&color=12)](https://visitcount.itsvg.in)
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64df8700ced78d293526efb1?variant=dark&roadmaps=ai-data-scientist)](https://roadmap.sh)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
