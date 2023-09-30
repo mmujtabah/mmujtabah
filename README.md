@@ -2,9 +2,8 @@
 <h3 align="center">A passionate developer</h3>
 <img align ="right" alt="Coding" width="400" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47vm6ro2ykv5c4cg8uw5ibvce8f3obdk86x62hr4tn&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmujtabah&label=Profile%20views&color=0e75b6&style=flat" alt="mmujtabah" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmujtabah" alt="mmujtabah" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmujtabah&label=Profile%20views&color=0e75b6&style=flat" alt="mmujtabah" /> </p>
 
 - 🌱 I’m currently learning **Data Science**
 
