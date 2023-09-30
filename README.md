@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Muhammad Mujtaba Hussain and I'm a developer, from Pakistan</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47vm6ro2ykv5c4cg8uw5ibvce8f3obdk86x62hr4tn&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
