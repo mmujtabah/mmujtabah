@@ -38,3 +38,4 @@
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mmujtabah&show_icons=true&locale=en&theme=dark" alt="mmujtabah" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mmujtabah&theme=dark" alt="mmujtabah" /></p>
+[![An image of @mmujtabah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mmujtabah)](https://holopin.io/@mmujtabah)
