@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **mmujtabah1599@protonmail.com**
-
+[![An image of @mmujtabah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mmujtabah)](https://holopin.io/@mmujtabah)
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/mmujtabah/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/mmujtabah" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -31,7 +31,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
-[![An image of @mmujtabah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mmujtabah)](https://holopin.io/@mmujtabah)
+
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmujtabah&layout=compact&theme=darcula" alt=mmujtabah />
 
