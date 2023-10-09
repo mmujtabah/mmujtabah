@@ -40,9 +40,9 @@
 </p>
 
 <h3 align="left">GitHub Stats</h3>
-<div align="center">
+<div align="left">
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmujtabah&layout=compact&theme=dark" alt="mmujtabah" />
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mmujtabah&show_icons=true&locale=en&theme=dark" alt="mmujtabah" />
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=mmujtabah&show_icons=true&locale=en&theme=dark" alt="mmujtabah" />
 </div>
 
 <p>
