@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Mujtaba Hussain</h1>
 <h3 align="center">I'm a developer</h3>
-<img align ="right" alt="Coding" width="300" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47vm6ro2ykv5c4cg8uw5ibvce8f3obdk86x62hr4tn&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align ="left" alt="Coding" width="300" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47vm6ro2ykv5c4cg8uw5ibvce8f3obdk86x62hr4tn&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 - 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **mmujtabah1599@protonmail.com**
