@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhammad Mujtaba Hussain 👋</h1>
-<h3 align="center">A passionate developer and data enthusiast</h3>
+<h3 align="center">A passionate developer and Data Scienc & ML enthusiast</h3>
 <p align="center">
   <img alt="Coding" width="300" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47vm6ro2ykv5c4cg8uw5ibvce8f3obdk86x62hr4tn&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </p>
