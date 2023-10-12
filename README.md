@@ -7,7 +7,7 @@
 - 🌱 Currently learning **Data Science**
 - 📫 Reach me at **[mmujtabah1599@protonmail.com](mailto:mmujtabah1599@protonmail.com)**
 
-[![An image of @mmujtabah's Holopin badges](https://holopin.me/mmujtabah)](https://holopin.io/@mmujtabah)
+[![An image of @mmujtabah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mmujtabah)](https://holopin.io/@mmujtabah)
 <div align="center">
   <a href="https://www.linkedin.com/in/mmujtabah/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
