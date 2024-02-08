@@ -39,12 +39,12 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h3 align="left">GitHub Stats</h3>
-<div align="left">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmujtabah&layout=compact&theme=dark" alt="mmujtabah" />
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=mmujtabah&show_icons=true&locale=en&theme=dark" alt="mmujtabah" />
+<h3 style="text-align: left;">GitHub Stats</h3>
+<div style="text-align: left;">
+  <img style="float: left; margin-right: 10px;" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmujtabah&layout=compact&theme=dark" alt="mmujtabah" />
+  <img style="float: left; margin-right: 10px;" height="150em" src="https://github-readme-stats.vercel.app/api?username=mmujtabah&show_icons=true&locale=en&theme=dark" alt="mmujtabah" />
 </div>
 
-<p>
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mmujtabah&theme=dark" alt="mmujtabah" />
+<p style="clear: both; text-align: center;">
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=mmujtabah&theme=dark" alt="mmujtabah" />
 </p>
