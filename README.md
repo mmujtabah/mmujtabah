@@ -13,7 +13,7 @@ Eager to embrace new challenges, I actively seek opportunities that contribute t
 
 [![An image of @mmujtabah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mmujtabah)](https://holopin.io/@mmujtabah)
 
-<h2 align="left">💻 My Tech Stack:</h2>
+<h2 align="left">💻 My Tech Stack</h2>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++"/>
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python"/>
