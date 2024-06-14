@@ -36,6 +36,8 @@ Eager to embrace new challenges, I actively seek opportunities that contribute t
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
   <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="Stack Overflow"/>
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="WordPress"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio"/>
 </p>
 
 <h2 style="text-align: left;">📊 GitHub Stats</h2>
