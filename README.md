@@ -39,6 +39,8 @@
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="Arduino"/>
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="Stack Overflow"/>
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="WordPress"/>
 </p>
 
 <h3 style="text-align: left;">GitHub Stats</h3>
