@@ -1,28 +1,17 @@
 <h1 align="center">Hi, I'm Muhammad Mujtaba Hussain 👋</h1>
 <h2 align="center">A passionate developer and Data Science & ML enthusiast</h2>
 <img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47vm6ro2ykv5c4cg8uw5ibvce8f3obdk86x62hr4tn&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-<p align="left">Immersed in the dynamic world of data science, I am actively contributing to the realms of learning and expanding my expertise. Simultaneously, I am pursuing a Computer Science degree at FAST-NUCES, channeling my commitment into expanding my expertise in the field.
-My journey is propelled by an unyielding passion for learning cutting-edge technologies and overcoming challenges through code. Key areas of expertise and interests include:
-Data Science: Actively exploring the intricacies of data analysis and visualization, employing tools like Pandas, NumPy, Matplotlib, Seaborn, PyTorch and Tensorflow.
+<p align="left" style="font-size: 18px;">
+Immersed in the dynamic world of data science, I am actively contributing to the realms of learning and expanding my expertise. Simultaneously, I am pursuing a Computer Science degree at FAST-NUCES, channeling my commitment into expanding my expertise in the field. My journey is propelled by an unyielding passion for learning cutting-edge technologies and overcoming challenges through code. Key areas of expertise and interests include:
+Data Science: Actively exploring the intricacies of data analysis and visualization, employing tools like Pandas, NumPy, Matplotlib, Seaborn, PyTorch, and Tensorflow.
 Machine Learning: Engaged in diverse online courses, exploring topics ranging from supervised and unsupervised learning to natural language processing and computer vision.
-Eager to embrace new challenges, I actively seek opportunities that contribute to my evolution as a data scientist and a professional. While I continue to master specific domains, my enthusiasm remains steadfast. I am keen to contribute to impactful projects and open to internships, freelance opportunities, or mentorship. I welcome connections and conversations that propel us forward in the ever-evolving realm of Computer Science.</p>
-
+Eager to embrace new challenges, I actively seek opportunities that contribute to my evolution as a data scientist and a professional. While I continue to master specific domains, my enthusiasm remains steadfast. I am keen to contribute to impactful projects and open to internships, freelance opportunities, or mentorship. I welcome connections and conversations that propel us forward in the ever-evolving realm of Computer Science.
+</p>
 
 - 🌱 Currently learning **Data Science**
 - 📫 Reach me at **[mmujtabah1599@protonmail.com](mailto:mmujtabah1599@protonmail.com)**
 
 [![An image of @mmujtabah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mmujtabah)](https://holopin.io/@mmujtabah)
-<div align="center">
-  <a href="https://www.linkedin.com/in/mmujtabah/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://github.com/mmujtabah" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:mmujtabah1599@protonmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</div>
 
 <h2 align="left">💻 My Tech Stack:</h2>
 <p align="left">
@@ -55,6 +44,18 @@ Eager to embrace new challenges, I actively seek opportunities that contribute t
   <img style="float: left; margin-right: 10px;" height="150em" src="https://github-readme-stats.vercel.app/api?username=mmujtabah&show_icons=true&locale=en&theme=dark" alt="mmujtabah" />
 </div>
 
+<div align="left">
+  <h2>🌐 Socials</h2>
+  <a href="https://www.linkedin.com/in/mmujtabah/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://github.com/mmujtabah" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:mmujtabah1599@protonmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
 <p style="clear: both; text-align: center;">
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=mmujtabah&theme=dark" alt="mmujtabah" />
 </p>
