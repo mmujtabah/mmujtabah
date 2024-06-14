@@ -31,7 +31,8 @@
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop"/>
   <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="Pytorch"/>
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="Tensorflow"/>
-  <img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" height="40" alt="Pandas"/>
+  <img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" height="40" alt="NumPy"/>
+  <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" height="40" alt="Pandas"/>
   <img src="https://skillicons.dev/icons?i=anaconda" height="40" alt="Anaconda"/>
   <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="PyCharm"/>
   <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="Scikit-learn"/>
