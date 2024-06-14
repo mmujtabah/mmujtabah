@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhammad Mujtaba Hussain 👋</h1>
-<h3 align="center">A passionate developer and Data Science & ML enthusiast</h3>
+<h2 align="center">A passionate developer and Data Science & ML enthusiast</h2>
 <img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47vm6ro2ykv5c4cg8uw5ibvce8f3obdk86x62hr4tn&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left">Immersed in the dynamic world of data science, I am actively contributing to the realms of learning and expanding my expertise. Simultaneously, I am pursuing a Computer Science degree at FAST-NUCES, channeling my commitment into expanding my expertise in the field.
 My journey is propelled by an unyielding passion for learning cutting-edge technologies and overcoming challenges through code. Key areas of expertise and interests include:
@@ -24,7 +24,7 @@ Eager to embrace new challenges, I actively seek opportunities that contribute t
   </a>
 </div>
 
-<h3 align="left">💻 My Tech Stack:</h3>
+<h2 align="left">💻 My Tech Stack:</h2>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++"/>
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python"/>
@@ -49,7 +49,7 @@ Eager to embrace new challenges, I actively seek opportunities that contribute t
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="WordPress"/>
 </p>
 
-<h3 style="text-align: left;">📊 GitHub Stats</h3>
+<h2 style="text-align: left;">📊 GitHub Stats</h2>
 <div style="text-align: left;">
   <img style="float: left; margin-right: 10px;" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmujtabah&layout=compact&theme=dark" alt="mmujtabah" />
   <img style="float: left; margin-right: 10px;" height="150em" src="https://github-readme-stats.vercel.app/api?username=mmujtabah&show_icons=true&locale=en&theme=dark" alt="mmujtabah" />
