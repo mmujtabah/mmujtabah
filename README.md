@@ -33,6 +33,7 @@
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="Tensorflow"/>
   <img src="https://skillicons.dev/icons?i=pandas" height="40" alt="Pandas"/>
   <img src="https://skillicons.dev/icons?i=anaconda" height="40" alt="Anaconda"/>
+  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="PyCharm"/>
   <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="Scikit-learn"/>
   <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="OpenCV"/>
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="Arduino"/>
