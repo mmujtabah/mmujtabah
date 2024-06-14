@@ -1,28 +1,17 @@
 <h1 align="center">Hi, I'm Muhammad Mujtaba Hussain 👋</h1>
 <h3 align="center">A passionate developer and Data Science & ML enthusiast</h3>
+<p align="left">Immersed in the dynamic world of data science, I am actively contributing to the realms of learning and expanding my expertise. Simultaneously, I am pursuing a Computer Science degree at FAST-NUCES, channeling my commitment into expanding my expertise in the field.
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding-right: 10px;">
-    <p align="left">
-      Immersed in the dynamic world of data science, I am actively contributing to the realms of learning and expanding my expertise. Simultaneously, I am pursuing a Computer Science degree at FAST-NUCES, channeling my commitment into expanding my expertise in the field.<br><br>
+My journey is propelled by an unyielding passion for learning cutting-edge technologies and overcoming challenges through code. Key areas of expertise and interests include:
 
-      My journey is propelled by an unyielding passion for learning cutting-edge technologies and overcoming challenges through code. Key areas of expertise and interests include:<br><br>
+Data Science: Actively exploring the intricacies of data analysis and visualization, employing tools like Pandas, NumPy, Matplotlib, Seaborn, PyTorch and Tensorflow.
 
-      Data Science: Actively exploring the intricacies of data analysis and visualization, employing tools like Pandas, NumPy, Matplotlib, Seaborn, PyTorch and Tensorflow.<br><br>
+Machine Learning: Engaged in diverse online courses, exploring topics ranging from supervised and unsupervised learning to natural language processing and computer vision.
 
-      Machine Learning: Engaged in diverse online courses, exploring topics ranging from supervised and unsupervised learning to natural language processing and computer vision.<br><br>
-
-      Eager to embrace new challenges, I actively seek opportunities that contribute to my evolution as a data scientist and a professional. While I continue to master specific domains, my enthusiasm remains steadfast. I am keen to contribute to impactful projects and open to internships, freelance opportunities, or mentorship. I welcome connections and conversations that propel us forward in the ever-evolving realm of Computer Science.
-    </p>
-  </div>
-  <div>
-    <p align="center">
-      <img alt="Coding" width="300" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47vm6ro2ykv5c4cg8uw5ibvce8f3obdk86x62hr4tn&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-    </p>
-  </div>
-</div>
-
-
+Eager to embrace new challenges, I actively seek opportunities that contribute to my evolution as a data scientist and a professional. While I continue to master specific domains, my enthusiasm remains steadfast. I am keen to contribute to impactful projects and open to internships, freelance opportunities, or mentorship. I welcome connections and conversations that propel us forward in the ever-evolving realm of Computer Science.</p>
+<p align="right">
+  <img alt="Coding" width="300" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47vm6ro2ykv5c4cg8uw5ibvce8f3obdk86x62hr4tn&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+</p>
 
 - 🌱 Currently learning **Data Science**
 - 📫 Reach me at **[mmujtabah1599@protonmail.com](mailto:mmujtabah1599@protonmail.com)**
