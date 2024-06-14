@@ -44,7 +44,9 @@ Eager to embrace new challenges, I actively seek opportunities that contribute t
   <img style="float: left; margin-right: 10px;" height="150em" src="https://github-readme-stats.vercel.app/api?username=mmujtabah&show_icons=true&locale=en&theme=dark" alt="mmujtabah" />
 </div>
 
-### 
+<p style="clear: both; text-align: center;">
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=mmujtabah&theme=dark" alt="mmujtabah" />
+</p>
 
 <div align="left">
   <h2>🌐 Socials</h2>
@@ -58,6 +60,3 @@ Eager to embrace new challenges, I actively seek opportunities that contribute t
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
-<p style="clear: both; text-align: center;">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=mmujtabah&theme=dark" alt="mmujtabah" />
-</p>
