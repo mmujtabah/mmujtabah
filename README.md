@@ -24,11 +24,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++"/>
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=qt" height="40" alt="Qt"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap"/>
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS"/>
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML"/>
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop"/>
   <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="Pytorch"/>
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="Tensorflow"/>
   <img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" height="40" alt="NumPy"/>
@@ -37,6 +32,12 @@
   <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="PyCharm"/>
   <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="Scikit-learn"/>
   <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="OpenCV"/>
+  <img src="https://skillicons.dev/icons?i=qt" height="40" alt="Qt"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop"/>
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="Arduino"/>
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
