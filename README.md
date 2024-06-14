@@ -24,7 +24,7 @@ Eager to embrace new challenges, I actively seek opportunities that contribute t
   </a>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💻 My Tech Stack:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++"/>
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python"/>
@@ -49,7 +49,7 @@ Eager to embrace new challenges, I actively seek opportunities that contribute t
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="WordPress"/>
 </p>
 
-<h3 style="text-align: left;">GitHub Stats</h3>
+<h3 style="text-align: left;">📊 GitHub Stats</h3>
 <div style="text-align: left;">
   <img style="float: left; margin-right: 10px;" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmujtabah&layout=compact&theme=dark" alt="mmujtabah" />
   <img style="float: left; margin-right: 10px;" height="150em" src="https://github-readme-stats.vercel.app/api?username=mmujtabah&show_icons=true&locale=en&theme=dark" alt="mmujtabah" />
