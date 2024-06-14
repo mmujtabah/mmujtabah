@@ -22,21 +22,21 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pytorch-icon.svg" alt="Pytorch" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/opencv-icon.svg" alt="Opencv" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++"/>
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=qt" height="40" alt="Qt"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="Pytorch"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="Tensorflow"/>
+  <img src="https://skillicons.dev/icons?i=pandas" height="40" alt="Pandas"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="Scikit-learn"/>
+  <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="OpenCV"/>
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="Arduino"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
 </p>
 
 <h3 style="text-align: left;">GitHub Stats</h3>
