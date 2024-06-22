@@ -5,8 +5,7 @@
 Immersed in the dynamic world of data science, I am actively contributing to the realms of learning and expanding my expertise. Simultaneously, I am pursuing a Computer Science degree at FAST-NUCES, channeling my commitment into expanding my expertise in the field. My journey is propelled by an unyielding passion for learning cutting-edge technologies and overcoming challenges through code. Key areas of expertise and interests include:
 Data Science: Actively exploring the intricacies of data analysis and visualization, employing tools like Pandas, NumPy, Matplotlib, Seaborn, PyTorch, and Tensorflow.
 Machine Learning: Engaged in diverse online courses, exploring topics ranging from supervised and unsupervised learning to natural language processing and computer vision.
-Eager to embrace new challenges, I actively seek opportunities that contribute to my evolution as a data scientist and a professional. While I continue to master specific domains, my enthusiasm remains steadfast. I am keen to contribute to impactful projects and open to internships, freelance opportunities, or mentorship. I welcome connections and conversations that propel us forward in the ever-evolving realm of Computer Science.
-</p>
+Eager to embrace new challenges, I actively seek opportunities that contribute to my evolution as a data scientist and a professional. While I continue to master specific domains, my enthusiasm remains steadfast. I am keen to contribute to impactful projects and open to internships, freelance opportunities, or mentorship.</p>
 
 - 🌱 Currently learning **Data Science**
 - 📫 Reach me at **[mmujtabah1599@protonmail.com](mailto:mmujtabah1599@protonmail.com)**
