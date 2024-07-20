@@ -22,6 +22,7 @@ Eager to embrace new challenges, I actively seek opportunities that contribute t
   <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="Scikit-learn"/>
   <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="OpenCV"/>
   <img src="https://skillicons.dev/icons?i=qt" height="40" alt="Qt"/>
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap"/>
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS"/>
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML"/>
