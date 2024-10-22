@@ -8,19 +8,13 @@ Aspiring game developer and computer science student with a focus on creating in
 
 <h2 align="left">💻 My Tech Stack</h2>
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#"/>
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++"/>
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="Pytorch"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="Tensorflow"/>
-  <img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" height="40" alt="NumPy"/>
-  <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" height="40" alt="Pandas"/>
-  <img src="https://skillicons.dev/icons?i=anaconda" height="40" alt="Anaconda"/>
-  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="PyCharm"/>
-  <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="Scikit-learn"/>
-  <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="OpenCV"/>
-  <img src="https://skillicons.dev/icons?i=qt" height="40" alt="Qt"/>
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="Unity"/>
+  <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="Unreal"/>
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender"/>
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS"/>
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML"/>
   <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript"/>
