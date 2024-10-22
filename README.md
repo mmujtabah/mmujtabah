@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Muhammad Mujtaba Hussain 👋</h1>
 <h2 align="center">A passionate developer and Game Programmer & Game Designer</h2>
-<img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47vm6ro2ykv5c4cg8uw5ibvce8f3obdk86x62hr4tn&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="center" alt="Coding" width="300" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47vm6ro2ykv5c4cg8uw5ibvce8f3obdk86x62hr4tn&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left">
 Aspiring game developer and computer science student with a focus on creating interactive experiences. I work with C++, C#, Python, and Unity to build projects that showcase my skills and creativity. Explore my repositories for game prototypes, coding challenges, and collaborative projects!</p>
 
-[![An image of @mmujtabah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mmujtabah)](https://holopin.io/@mmujtabah)
+<!--[![An image of @mmujtabah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mmujtabah)](https://holopin.io/@mmujtabah)-->
 
 <h2 align="left">💻 My Tech Stack</h2>
 <p align="left">
