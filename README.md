@@ -2,7 +2,7 @@
 <h2 align="center">A passionate developer and Game Programmer & Game Designer</h2>
 
 <p align="center">
-Aspiring game developer and computer science student with a focus on creating interactive experiences. I work with C++, C#, Python, Unreal Engine, Unity to build projects that showcase my skills and creativity. Explore my repositories for game prototypes, coding challenges, and collaborative projects!</p>
+Aspiring game developer and computer science student with a focus on creating interactive experiences. I work with C++, C#, Python, Unreal Engine to build projects that showcase my skills and creativity. Explore my repositories for game prototypes, coding challenges, and collaborative projects!</p>
 
 <!--[![An image of @mmujtabah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mmujtabah)](https://holopin.io/@mmujtabah)-->
 
@@ -12,7 +12,6 @@ Aspiring game developer and computer science student with a focus on creating in
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++"/>
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap"/>
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="Unity"/>
   <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="Unreal"/>
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender"/>
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS"/>
