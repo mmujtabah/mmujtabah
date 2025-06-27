@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhammad Mujtaba Hussain 👋</h1>
-<h2 align="center">A passionate developer and Game Programmer & Game Designer</h2>
+<h2 align="center">A passionate developer and Game Programmer</h2>
 
 <p align="center">
 Aspiring game developer and computer science student with a focus on creating interactive experiences. I work with C++, C#, Python, Unreal Engine to build projects that showcase my skills and creativity. Explore my repositories for game prototypes, coding challenges, and collaborative projects!</p>
