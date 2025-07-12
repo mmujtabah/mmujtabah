@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Muhammad Mujtaba Hussain 👋</h1>
-<h2 align="center">A passionate developer and Game Programmer</h2>
+<h2 align="center">Game Developer & Programmer | C++ • Unreal Engine • Gameplay Systems</h2>
 
 <p align="center">
-Aspiring game developer and computer science student with a focus on creating interactive experiences. I work with C++, C#, Python, Unreal Engine to build projects that showcase my skills and creativity. Explore my repositories for game prototypes, coding challenges, and collaborative projects!</p>
+Game developer and computer science student focused on creating interactive experiences. I work with C++, C#, Python, and Unreal Engine to build projects that showcase my skills and creativity. Explore my repositories for game prototypes, coding challenges, and collaborative projects!</p>
 
 <!--[![An image of @mmujtabah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mmujtabah)](https://holopin.io/@mmujtabah)-->
 
