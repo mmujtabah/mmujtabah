@@ -8,8 +8,8 @@ Game developer and computer science student focused on creating interactive expe
 
 <h2 align="left">💻 My Tech Stack</h2>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#"/>
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++"/>
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#"/>
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap"/>
   <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="Unreal"/>
