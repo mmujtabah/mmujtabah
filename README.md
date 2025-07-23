@@ -11,12 +11,12 @@ Game developer and computer science student focused on creating interactive expe
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++"/>
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#"/>
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap"/>
   <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="Unreal"/>
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender"/>
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS"/>
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML"/>
   <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap"/>
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop"/>
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="Arduino"/>
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
