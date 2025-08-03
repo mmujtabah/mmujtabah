@@ -1,8 +1,17 @@
 <h1 align="center">Hi, I'm Muhammad Mujtaba Hussain 👋</h1>
-<h2 align="center">Game Developer & Programmer | C++ • Unreal Engine • Gameplay Systems</h2>
+<h2 align="center">Gameplay Programmer | C++ • Unreal Engine • Systems & Tools</h2>
 
 <p align="center">
-Game developer and computer science student focused on creating interactive experiences. I work with C++, C#, Python, and Unreal Engine to build projects that showcase my skills and creativity. Explore my repositories for game prototypes, coding challenges, and collaborative projects!</p>
+I'm a gameplay programmer with focused on building interactive mechanics and efficient tools using Unreal Engine and C++. From combat systems to in-editor plugins, I develop scalable features that enhance both player experience and developer workflow. I'm also working on indie game projects where I prototype mechanics, handle solo programming, and push ideas from concept to playable builds.
+</p>
+
+<h2 align="left">🧠 Core Expertise</h2>
+<ul>
+  <li><strong>Gameplay Systems:</strong> Character movement, combat, input handling, UI logic, ability frameworks</li>
+  <li><strong>Tool Development:</strong> Custom Unreal Engine plugins, in-editor utilities, and workflow automation</li>
+  <li><strong>Engine Programming:</strong> Actor/component lifecycle, reflection system, memory management</li>
+  <li><strong>Performance & Debugging:</strong> Profiling, optimization, log tracing, gameplay debugging tools</li>
+</ul>
 
 <!--[![An image of @mmujtabah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mmujtabah)](https://holopin.io/@mmujtabah)-->
 
