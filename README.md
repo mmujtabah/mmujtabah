@@ -1,47 +1,37 @@
 <h1 align="center">Hi, I'm Muhammad Mujtaba Hussain 👋</h1>
-<h2 align="center">Gameplay Programmer | C++ • Unreal Engine • Systems & Tools</h2>
-
+<h2 align="center">Software Developer | C++ • Python • JavaScript</h2>
 <p align="center">
-I'm a gameplay programmer with focused on building interactive mechanics and efficient tools using Unreal Engine and C++. From combat systems to in-editor plugins, I develop scalable features that enhance both player experience and developer workflow. I'm also working on indie game projects where I prototype mechanics, handle solo programming, and push ideas from concept to playable builds.
+CS student at FAST NUCES with experience across web development, scripting, and systems programming.
 </p>
 
-<h2 align="left">🧠 Core Expertise</h2>
+<h2 align="left">🧠 What I Work On</h2>
 <ul>
-  <li><strong>Gameplay Systems:</strong> Character movement, combat, input handling, UI logic, ability frameworks</li>
-  <li><strong>Tool Development:</strong> Custom Unreal Engine plugins, in-editor utilities, and workflow automation</li>
-  <li><strong>Engine Programming:</strong> Actor/component lifecycle, reflection system, memory management</li>
-  <li><strong>Performance & Debugging:</strong> Profiling, optimization, log tracing, gameplay debugging tools</li>
+  <li><strong>Full-Stack Web:</strong> React frontends, Express.js backends, SQL Server databases, JWT auth</li>
+  <li><strong>Python:</strong> Scripting, automation, and tools — including a voice assistant</li>
+  <li><strong>Systems & Game Dev:</strong> C++ gameplay systems, Unreal Engine, performance optimization</li>
 </ul>
-
-<!--[![An image of @mmujtabah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mmujtabah)](https://holopin.io/@mmujtabah)-->
 
 <h2 align="left">💻 My Tech Stack</h2>
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++"/>
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#"/>
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="SQL"/>
   <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="Unreal"/>
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender"/>
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS"/>
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML"/>
-  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap"/>
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop"/>
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="Arduino"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="Stack Overflow"/>
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="WordPress"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code"/>
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
 </p>
 
 <h2 style="text-align: left;">📊 GitHub Stats</h2>
-<div style="text-align: left;">
-  <img style="float: left; margin-right: 10px;" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmujtabah&layout=compact&theme=dark" alt="mmujtabah" />
-  <img style="float: left; margin-right: 10px;" height="150em" src="https://github-readme-stats.vercel.app/api?username=mmujtabah&show_icons=true&locale=en&theme=dark" alt="mmujtabah" />
-</div>
-
 <p style="clear: both; text-align: center;">
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=mmujtabah&theme=dark" alt="mmujtabah" />
 </p>
@@ -49,12 +39,6 @@ I'm a gameplay programmer with focused on building interactive mechanics and eff
 <div align="left">
   <h2>🌐 Socials</h2>
   <a href="https://www.linkedin.com/in/mmujtabah/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://github.com/mmujtabah" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:mmujtabah1599@protonmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
