@@ -27,7 +27,6 @@
 | 🌐 **Full-Stack Web** | React, Express.js, Node.js, SQL Server, JWT Auth |
 | 🐍 **Python** | Scripting, automation, CLI tools |
 | 🎮 **Game / Systems** | C++, Unreal Engine, performance optimization |
-| 🎨 **3D / Visual** | Blender, Unreal Engine materials & lighting |
 
 ---
 
@@ -56,7 +55,6 @@
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
 ![Unreal](https://skillicons.dev/icons?i=unreal)
-![Blender](https://skillicons.dev/icons?i=blender)
 
 ---
 
