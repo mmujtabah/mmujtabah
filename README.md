@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Mujtaba%20Hussain&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20CS%20%40%20FAST%20NUCES&descAlignY=58&descColor=a0a0ff" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;C%2B%2B+%26+Systems+Programmer;Unreal+Engine+Enthusiast..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Mobile+App+Developer;Systems+Programmer" alt="Typing SVG" />
 </a>
 
 </div>
@@ -14,7 +14,7 @@
 
 - 🎓 CS student at **FAST NUCES**
 - 🌐 Building full-stack apps with **React + Express + SQL Server**
-- 🎮 Creating gameplay systems in **C++ / Unreal Engine**
+- 📱 Exploring mobile development with **Swift / iOS**
 - 🐍 Writing Python tools and automation scripts
 - 📬 Reach me at **[LinkedIn](https://www.linkedin.com/in/mmujtabah/)**
 
@@ -24,9 +24,9 @@
 
 | Area | Stack |
 |------|-------|
-| 🌐 **Full-Stack Web** | React, Express.js, Node.js, SQL Server, JWT Auth |
+| 🌐 **Full-Stack** | React, Express.js, Node.js, SQL Server |
+| 📱 **Mobile** | Swift, iOS, Xcode |
 | 🐍 **Python** | Scripting, automation, CLI tools |
-| 🎮 **Game / Systems** | C++, Unreal Engine, performance optimization |
 
 ---
 
@@ -38,6 +38,7 @@
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![C#](https://skillicons.dev/icons?i=cs)
+![Swift](https://skillicons.dev/icons?i=swift)
 
 **Web**
 
@@ -53,17 +54,14 @@
 ![Git](https://skillicons.dev/icons?i=git)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
-![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
-![Unreal](https://skillicons.dev/icons?i=unreal)
+![Xcode](https://skillicons.dev/icons?i=xcode)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mmujtabah&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 ---
