@@ -13,7 +13,7 @@
 ## 👤 About Me
 
 - 🎓 CS student at **FAST NUCES**
-- 🌐 Building full-stack apps with **React + Express + SQL Server**
+- 🌐 Building full-stack apps with **React + Express + SQL**
 - 📱 Exploring mobile development with **Swift / iOS**
 - 🐍 Writing Python tools and automation scripts
 - 📬 Reach me at **[LinkedIn](https://www.linkedin.com/in/mmujtabah/)**
