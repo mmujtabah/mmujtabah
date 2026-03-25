@@ -24,7 +24,7 @@
 
 | Area | Stack |
 |------|-------|
-| 🌐 **Full-Stack** | React, Express.js, Node.js, SQL Server |
+| 🌐 **Full-Stack** | React, Express.js, Node.js, SQL |
 | 📱 **Mobile** | Swift, iOS, Xcode |
 | 🐍 **Python** | Scripting, automation, CLI tools |
 
