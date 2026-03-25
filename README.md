@@ -1,5 +1,37 @@
-# README
+# Capsule-Render
 
-This is the readme file description of the project.
+Welcome to Capsule-Render!
 
-[![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&desc=Software%20Engineer%20%7C%20CS%20%40%20FAST%20NUCES&text=Hello%20World)](https://github.com/mmujtabah/mmujtabah)
+We are a team of Software Engineers dedicated to building powerful and efficient applications.
+
+## Features
+
+- Fast and reliable
+- Easy to use
+- Open Source
+
+## Installation
+
+To install Capsule-Render, clone the repository and run the setup script.
+
+```bash
+git clone https://github.com/mmujtabah/capsule-render.git
+cd capsule-render
+bash setup.sh
+```
+
+## Usage
+
+After installation, navigate to the application folder and start the application with:
+
+```bash
+bash start.sh
+```
+
+## Contributing
+
+If you want to contribute to Capsule-Render, feel free to submit a pull request or open an issue.
+
+## License
+
+This project is licensed under the MIT License.
