@@ -66,8 +66,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mmujtabah&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmujtabah&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api?username=mmujtabah&show_icons=true&theme=tokyonight&hide_border=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage"/>
 </div>
 
 <div align="center">
