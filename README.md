@@ -66,6 +66,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+<img width="55%" src="https://github-readme-stats.vercel.app/api?username=mmujtabah&show_icons=true&theme=tokyonight&hide_border=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage"/>
+</div>
+
+<div align="center">
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mmujtabah&theme=tokyonight&hide_border=true"/>
 </div>
 
