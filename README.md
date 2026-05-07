@@ -1,7 +1,8 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Mujtaba%20Hussain&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20CS%20%40%20FAST%20NUCES&descAlignY=58&descColor=a0a0ff" width="100%"/>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Mobile+App+Developer;Systems+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Mobile+App+Developer;Systems+Programmer;Unreal+Engine+Game+Developer" alt="Typing SVG" />
 </a>
 </div>
 
@@ -11,6 +12,7 @@
 
 - 🎓 CS student at **FAST NUCES**
 - 🌐 Building full-stack apps with **React + Express + SQL**
+- 🎮 Developing games with **Unreal Engine 5 + C++**
 - 📱 Exploring mobile development with **Swift / SwiftUI / iOS**
 - 🐍 Writing Python tools and automation scripts
 - 📬 Reach me at **[LinkedIn](https://www.linkedin.com/in/mmujtabah/)**
@@ -22,6 +24,7 @@
 | Area | Stack |
 |------|-------|
 | 🌐 **Full-Stack** | React, Next.js, Express.js, Node.js, SQL |
+| 🎮 **Game Development** | Unreal Engine 5, C++, Blueprints |
 | 📱 **Mobile** | Swift, SwiftUI, iOS, Xcode |
 | 🐍 **Python** | Scripting, automation, CLI tools |
 
@@ -29,7 +32,7 @@
 
 ## 💻 Tech Stack
 
-**Languages**
+### **Languages**
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -38,7 +41,7 @@
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Web**
+### **Web**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -51,12 +54,17 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
-**Mobile**
+### **Game Development**
+
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Blueprints](https://img.shields.io/badge/Blueprints-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+### **Mobile**
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-006AC5?style=for-the-badge&logo=swift&logoColor=white)
 
-**Tools & Platforms**
+### **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -66,11 +74,11 @@
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
 <img width="55%" src="https://github-readme-stats-fast.vercel.app/api?username=mmujtabah&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </div>
 
-</div>
 <div align="center">
 <img width="70%" src="https://streak-stats.demolab.com/?user=mmujtabah&theme=tokyonight&hide_border=true"/>
 </div>
