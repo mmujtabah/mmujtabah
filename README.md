@@ -12,7 +12,7 @@
 
 - 🎓 CS student at **FAST NUCES**
 - 🌐 Building full-stack apps with **React + Express + SQL**
-- 🎮 Developing games with **Unreal Engine 5 + C++**
+- 🎮 Developing games with **Unreal Engine, C++**
 - 📱 Exploring mobile development with **Swift / SwiftUI / iOS**
 - 🐍 Writing Python tools and automation scripts
 - 📬 Reach me at **[LinkedIn](https://www.linkedin.com/in/mmujtabah/)**
@@ -24,7 +24,7 @@
 | Area | Stack |
 |------|-------|
 | 🌐 **Full-Stack** | React, Next.js, Express.js, Node.js, SQL |
-| 🎮 **Game Development** | Unreal Engine 5, C++, Blueprints |
+| 🎮 **Game Development** | Unreal Engine, C++, Blueprints |
 | 📱 **Mobile** | Swift, SwiftUI, iOS, Xcode |
 | 🐍 **Python** | Scripting, automation, CLI tools |
 
