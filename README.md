@@ -90,9 +90,22 @@ Gameplay systems and mechanics developed using Unreal Engine, C++, and Blueprint
 
 ---
 
+
 <div align="center">
 
-### Always building, always learning.
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJxZHRrcm5yNmV6N3J5amdyd2w2Yjc1eXFyaGw4dHJ2bXkycWlmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zk6KO1oOBeD5N3BeXj/giphy.gif" width="520" alt="Elden Ring" />
+
+<br/><br/>
+
+> *"Arise now, ye Tarnished.*  
+> *Cross the fog, to the Lands Between.*  
+> *Become the Elden Lord."*
+
+</div>
+
+
+---
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
