@@ -92,6 +92,18 @@ Gameplay systems and mechanics developed using Unreal Engine, C++, and Blueprint
 
 <div align="center">
 
+## 🔥 Elden Ring
+
+<img src="https://media.tenor.com/FiMixdYVxWMAAAAC/mesmer-elden-ring.gif" width="480" alt="Mesmer the Impaler" />
+
+> *"Stripped of the Grace of Gold, and yet you still draw breath. A Tarnished."*
+
+</div>
+
+---
+
+<div align="center">
+
 ### Always building, always learning.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
