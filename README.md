@@ -96,7 +96,7 @@ Gameplay systems and mechanics developed using Unreal Engine, C++, and Blueprint
 
 <img src="https://media.tenor.com/FiMixdYVxWMAAAAC/mesmer-elden-ring.gif" width="480" alt="Mesmer the Impaler" />
 
-> *"Stripped of the Grace of Gold, and yet you still draw breath. A Tarnished."*
+> *"Those stripped of the Grace of Gold shall all meet death."*
 
 </div>
 
